@@ -1,9 +1,8 @@
 ```console
-aut@kongcheng ~ $ whoami
-aut
-alias: kongcheng  ·  空城 :)
+root@ubuntu ~ $ whoami
+Aut
 
-aut@kongcheng ~ $ cat stack.toml
+root@ubuntu ~ $ cat stack.toml
 [primary]
 language = "rust"
 share    = "~80%"          # systems · tools · code meant to last
@@ -17,19 +16,19 @@ php    = "sites · glue · wordpress"
 go   = "light"
 html = "light"
 
-aut@kongcheng ~ $ ls -la ~/work --visibility=public
+root@ubuntu ~ $ ls -la ~/work --visibility=public
 drwxr-xr-x  HyperCapsule/    HyperOS dual-capsule · Kotlin · LSPosed
 ..........
 30+ private repos             ← main workshop (rust lives here)
 
-aut@kongcheng ~ $ cat <<'EOF'
+root@ubuntu ~ $ cat <<'EOF'
 > write rust by default
 > ship modules when HyperOS asks
 > publish notes when they earn a slot
 > EOF
 
-aut@kongcheng ~ $ open autkc.com
-aut@kongcheng ~ $ █
+root@ubuntu ~ $ open autkc.com
+root@ubuntu ~ $ █
 ```
 
 <br>
@@ -38,7 +37,7 @@ aut@kongcheng ~ $ █
 |:--|:--|
 | **Public work** | [HyperCapsule](https://github.com/Aut520/HyperCapsule) |
 | **Blog** | [autkc.com](https://autkc.com) |
-| **Video** | [Bilibili · Kongcheng](https://space.bilibili.com/646034036) |
+| **Video** | [Bilibili · Aut](https://space.bilibili.com/646034036) |
 | **Contact** | [Issues on this repo](https://github.com/Aut520/Aut520/issues) |
 
 <br>
@@ -46,7 +45,7 @@ aut@kongcheng ~ $ █
 ```rust
 //! Aut · Aut520 — profile as source
 
-const NAME: &str = "Aut"; // also 空城
+const NAME: &str = "Aut";
 const FOCUS: &str = "Rust (~80%), mostly private";
 
 fn main() {
@@ -58,6 +57,6 @@ fn main() {
 
 <div align="center">
 
-<sub>Rust-first · private by default · door’s open at Kongcheng</sub>
+<sub>Rust-first · private by default · Aut</sub>
 
 </div>
