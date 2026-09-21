@@ -19,7 +19,6 @@ html = "light"
 
 aut@kongcheng ~ $ ls -la ~/work --visibility=public
 drwxr-xr-x  HyperCapsule/    HyperOS dual-capsule · Kotlin · LSPosed
-drwxr-xr-x  AxChatFont/      AxChat font pack
 ..........
 30+ private repos             ← main workshop (rust lives here)
 
@@ -37,8 +36,8 @@ aut@kongcheng ~ $ █
 
 | | |
 |:--|:--|
-| **Public work** | [HyperCapsule](https://github.com/Aut520/HyperCapsule) · [AxChatFont](https://github.com/Aut520/AxChatFont) |
-| **Blog** | [autkc.com](https://autkc.com) — 空城 |
+| **Public work** | [HyperCapsule](https://github.com/Aut520/HyperCapsule) |
+| **Blog** | [autkc.com](https://autkc.com) |
 | **Video** | [Bilibili · Kongcheng](https://space.bilibili.com/646034036) |
 | **Contact** | [Issues on this repo](https://github.com/Aut520/Aut520/issues) |
 
@@ -52,7 +51,7 @@ const FOCUS: &str = "Rust (~80%), mostly private";
 
 fn main() {
     // public GitHub is the shelf, not the workshop
-    // HyperCapsule / AxChatFont sit on the shelf
+    // HyperCapsule sits on the shelf
     // the rest stays in private crates & repos
 }
 ```
